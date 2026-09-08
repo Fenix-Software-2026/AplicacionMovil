@@ -1,0 +1,1 @@
+Esta es una prueba para confirmar la conexión del IDE con GitHub Desktop. Si esto está visible en el repo, significa que la vinculación no tuvo problemas :)
